@@ -26,4 +26,5 @@
     
     print(length)
    
+   ![]gambar/gambar%201.png
 
