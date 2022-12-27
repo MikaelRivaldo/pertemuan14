@@ -19,8 +19,11 @@
 # Penyelesaian
 
 • Hitung jumlah karakternya :
+
     text = "Hello World"
+    
     length = len(text)
+    
     print(length)
    
 
